@@ -1,2 +1,2 @@
-# c
-Repository for studying/practicing C language.
+## Algorithms
+Repository for exercises in book Algorithms.
