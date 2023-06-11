@@ -5,7 +5,7 @@ This repository contains the solutions to the exercises from each chapter of the
 
 ### Content
 
-- Chapter 1. Fundamentos
+- Chapter 1. Fundamentals
 - Chapter 2. Sorting
 - Chapter 3. Searching
 - Chapter 4. Graphs
